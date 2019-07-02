@@ -1,5 +1,3 @@
-TEST 123
-12345
-12345
-12345
+
+Markup : ![picture alt](https://github.com/JobinSajuIdicula/gitmergetest/blob/staging/1.png "Title is optional")
 
